@@ -135,6 +135,9 @@ Sample Response (for PDF):
 |  **Excel** | `sales-data.xlsx`    | Structured Rows |
 |  **Image** | `quote.jpeg`         | OCR Text        |
 
+📁 Example input and output files are included in the /examples folder of this repository for easy verification.
+
+
 Highlights
 
 ✅ Modular and extensible design
