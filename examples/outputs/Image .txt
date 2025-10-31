@@ -1,0 +1,23 @@
+{
+  "text": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The only way to do great work is to love what you do.\n– Steve Jobs",
+        "tables": []
+      }
+    ]
+  },
+  "tables": [],
+  "metadata": {
+    "fileName": "ChatGPT Image Oct 31, 2025, 01_18_34 PM.png",
+    "fileType": "image/png",
+    "fileSize": 105623,
+    "pageCount": 1,
+    "extractionConfidence": 0.88,
+    "extractedBy": "Tesseract OCR",
+    "parseDate": "2025-10-31T15:08:00Z"
+  },
+  "extractedImages": null,
+  "issues": null
+}

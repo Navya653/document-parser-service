@@ -1,0 +1,15 @@
+{
+    "text": "Monthly Performance Report\nThis report summarizes the monthly metrics.\n\tMetric\n\tValue\n\n\tSales\n\t1200\n\n\tGrowth\n\t12%\n\n\nPrepared by: Analytics Team\n\n",
+    "tables": [],
+    "metadata": {
+        "fileName": "sample-report.docx",
+        "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "fileSize": 36840,
+        "pageCount": 1,
+        "extractionConfidence": 0.85,
+        "extractedBy": "Apache Tika (AutoDetectParser)",
+        "parseDate": "2025-10-31T14:04:39.358982400Z"
+    },
+    "extractedImages": null,
+    "issues": null
+}

@@ -1,0 +1,23 @@
+{
+    "text": {
+        "pages": [
+            {
+                "pageNumber": 1,
+                "text": "Invoice\r\nInvoice No: INV-1003\r\nDate: 01-10-2024\r\nCustomer: John Doe\r\nItem            Qty   Price   Total\r\n--------------------------------------\r\nLaptop         1     900     900\r\nMouse          2     25      50\r\n--------------------------------------\r\nGrand Total: 950",
+                "tables": []
+            }
+        ]
+    },
+    "tables": [],
+    "metadata": {
+        "fileName": "invoice-sample.pdf",
+        "fileType": "application/pdf",
+        "fileSize": 1135,
+        "pageCount": 1,
+        "extractionConfidence": 0.95,
+        "extractedBy": "PDFBox + OCR",
+        "parseDate": "2025-10-31T13:58:39.090526900Z"
+    },
+    "extractedImages": null,
+    "issues": null
+}
